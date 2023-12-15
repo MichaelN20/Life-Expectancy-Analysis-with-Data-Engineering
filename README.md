@@ -13,3 +13,8 @@ Nowadays, optimizing employee performance has become a paramount goal for forwar
 In this project, our goal is to prepare data with automated cleaning so that we can then analyze sleep efficiency and explore the factors that influence it.
 
 ### **Tools:**
+- **Data Retrieval:** psycog2, sqlalchemy
+- **Data Manipulation:** Python, Pandas, Elastic Search (NoSQL)
+- **Visualization:** Matplotlib, Seaborn, Phik, Kibana
+- **Feature Engineering:** Great Expectation, Apache Airflow
+- **Environment:** Docker
