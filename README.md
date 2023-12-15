@@ -14,7 +14,8 @@ In this project, our goal is to prepare data with automated cleaning so that we 
 
 ### **Tools:**
 - **Data Retrieval:** psycog2, sqlalchemy
-- **Data Manipulation:** Python, Pandas, Elastic Search (NoSQL)
+- **Database:** PostgreSQL, Elastic Search
+- **Data Manipulation:** Python, Pandas
 - **Visualization:** Matplotlib, Seaborn, Phik, Kibana
 - **Feature Engineering:** Great Expectation, Apache Airflow
 - **Environment:** Docker
