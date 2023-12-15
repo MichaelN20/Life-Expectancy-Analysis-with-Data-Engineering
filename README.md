@@ -9,5 +9,7 @@ This data contains information about a group of test subjects and their sleep pa
 ### **Background:**
 Nowadays, optimizing employee performance has become a paramount goal for forward-thinking companies. Recognizing the profound impact of sleep on productivity, our organization is embarking on a mission to enhance the well-being and efficiency of our workforce. Through a meticulous analysis of sleep efficiency, we aim to uncover actionable insights that will empower our employees to achieve their full potential, fostering a workplace where restful nights translate into heightened professional performance.
 
-**Objective:**
+### **Objective:**
 In this project, our goal is to prepare data with automated cleaning so that we can then analyze sleep efficiency and explore the factors that influence it.
+
+### **Tools:**
